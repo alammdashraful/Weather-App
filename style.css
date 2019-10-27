@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css?family=Be+Vietnam&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Be Vietnam', sans-serif;
+}
+#search-city{
+    margin-bottom: 10px;
+    padding: 0;
+    text-align: center;
+}
+#weather-search{
+    margin-top: 20px;
+    background: #E8A496;
+    border-radius: 3px;
+    box-shadow: 3px 3px 50px rgba(0,0,0,0.1);
+}
+
+#search-box{
+   margin-top: 20px; 
+}
+
+#cname{
+    margin-top: 20px;
+    text-align: center;
+    color: aliceblue;
+}
+#cityname{
+    font-size: 2em;
+    text-align: center;
+}
+#icon{
+    size: 30px;
+    margin-left: 500px;
+}
+
+#tempart{
+    margin-top: 40px;
+    text-align: center;
+    color: aliceblue;
+}
+
+#temp{
+    font-size: 2em;
+    text-align: center;
+}
+
+#hum{
+    margin-top: 40px;
+    text-align: center;
+    color: aliceblue;
+}
+
+#hud{
+    font-size: 2em;
+    text-align: center;
+}
+
+#more-info{
+    text-align: center;
+}
+
+#contact-text{
+    text-align: center;
+}
+
+#cntry{
+    margin-top: 40px;
+    text-align: center;
+    color: #00E6F9;
+}
+
+#country{
+    font-size: 2em;
+    text-align: center;
+}
+
+#tmzone{
+    margin-top: 40px;
+    text-align: center;
+    color: #00E6F9;
+}
+
