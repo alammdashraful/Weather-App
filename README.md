@@ -1,24 +1,31 @@
-# Weather-App
-
+# Weather App
+## Introduction
 It's a weather app,where show the city's weather.
 
-#Features
-1.Search any city's weather in the world.
-2.Show city's temp,humdatity,time etc.
-3.Weather Blog.
-4.Contact From
-5.More Information.
+## Technology
+### Frontend
+* **HTML**
+* **CSS**
+* **Bootstrap**
+* **Javascript**
 
-#Technology
-Forntend
-1.HTML
-2.CSS
-3.Bootstrap
-4.Javascript
+### Backtend
+* **Node.js**
 
-Backend
-1.NodeJS
+### CRUD Operation
+* **MongoDB**
 
-CRUD Operation
-1.MongoDB
+## Features
+**1. Search any city's weather in the world.**
+
+**2. Show city's temp,humdatity,time etc.**
+
+**3. Weather Blog.**
+
+**4. Contact From.**
+
+**5. More Information.**
+
+## Plan for project
+**Atfirst prototype this web app,then use HTML, CSS, Javascript for forntend and Node.js use for backend.I also call a free api for weather report.** 
 
