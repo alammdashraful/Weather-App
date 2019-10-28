@@ -41,3 +41,55 @@
     color: aliceblue;
 }
 
+#temp{
+    font-size: 2em;
+    text-align: center;
+}
+
+#hum{
+    margin-top: 40px;
+    text-align: center;
+    color: aliceblue;
+}
+
+#hud{
+    font-size: 2em;
+    text-align: center;
+}
+
+#more-info{
+    text-align: center;
+}
+
+#contact-text{
+    text-align: center;
+}
+
+#cntry{
+    margin-top: 40px;
+    text-align: center;
+    color: #00E6F9;
+}
+
+#country{
+    font-size: 2em;
+    text-align: center;
+}
+
+#tmzone{
+    margin-top: 40px;
+    text-align: center;
+    color: #00E6F9;
+}
+
+#timezone{
+    font-size: 2em;
+    text-align: center;
+}
+
+#desc{
+    margin-top: 40px;
+    text-align: center;
+    color: #00E6F9;
+}
+
