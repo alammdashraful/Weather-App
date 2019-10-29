@@ -1,6 +1,6 @@
 # Weather App
 ## Introduction
-It's a weather app,where show the city's weather.
+It's a weather app,where show the city's weather.It's also this city's time,humadity,wind speed,country code,weather description etc.This site have a blog,this blog shows weather article or report.Anybody can contact us from contact form.
 
 ## Technology
 ### Frontend
@@ -27,5 +27,8 @@ It's a weather app,where show the city's weather.
 **5. More Information.**
 
 ## Plan for project
-**Atfirst prototype this web app,then use HTML, CSS, Javascript for forntend and Node.js use for backend.I also call a free api for weather report.** 
+Atfirst prototype this web app,then use HTML, CSS, Javascript for forntend and Node.js use for backend.I also call a free api for weather report.
+
+## Live Demo
+I also upload my project in Github page
 
