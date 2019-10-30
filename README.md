@@ -30,7 +30,8 @@ It's a weather app,where show the city's weather. It's also this city's time,hum
 ## Plan for project
 Atfirst prototype this web app,then use HTML, CSS, Javascript for forntend and Node.js use for backend.I also call a free api for weather report.using javascript for call the api and request client to server and also use for contact form. Because contact form need validatiton.
 
-For weather blog i use node.js for backend,and all blog's data save in mongodb database.using http client call all data from mongodb and show this data in website. Only the website admin create,update,delete(CRUD Operation) this blog. 
+December 2nd week backend will be finished
+For weather blog i will use node.js for backend,and all blog's data save in mongodb database.using http client call all data from mongodb and show this data in website. Only the website admin create,update,delete(CRUD Operation) this blog. 
 
 ## Live Demo
 I also upload my project in Github page
